@@ -32,3 +32,4 @@ out/
 .iml.md
 private/
 *.iml
+.idea
