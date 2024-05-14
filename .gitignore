@@ -31,3 +31,4 @@ bin/
 out/
 .iml.md
 private/
+*.iml
